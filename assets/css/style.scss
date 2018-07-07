@@ -2,3 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+
+// Change hyperlink color to green
+a, a:hover, strong{
+    color: #5B974F;
+}

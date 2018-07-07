@@ -19,7 +19,7 @@
 {"name":"TOWD Project","description":"Digitizing wings of dragonflies and damselflies (Odonata) from North America and beyond.","@type":"WebSite","url":"http://localhost:4000/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/towd-project-logo.png"}},"headline":"Targeted Odonata Wing Digitization (TOWD) Project","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=61a3093b3440d977ffe238651bb085daff7cd710">
+    <link rel="stylesheet" href="/assets/css/style.css?v=99e610019e252ff68eed1a10dfe9a86d9842c650">
     <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -27,7 +27,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="http://localhost:4000/">TOWD Project</a></h1>
+        <!-- <h1><a href="http://localhost:4000/">TOWD Project</a></h1> -->
 
         
           <img src="/assets/towd-project-logo.png" alt="Logo" />
@@ -45,53 +45,126 @@
       </header>
       <section>
 
-      <h2 id="targeted-odonata-wing-digitization-towd-project">Targeted Odonata Wing Digitization (TOWD) Project</h2>
+      <h1 id="targeted-odonata-wing-digitization-towd-project">Targeted Odonata Wing Digitization (TOWD) Project</h1>
 
-<h3 id="about-the-project">About the Project</h3>
+<h2 id="about-the-project">About the Project</h2>
 
-<p>Dragonflies and damselflies (Odonata) are highly skilled aerial acrobats, due largely to the intricacies of their most prominent features: their wings. These structures are both functional and beautiful: they provide extreme maneuverability and durability in a lightweight package, and they can be marked with bright color patterns and even iridescence!</p>
+<p><strong>Dragonflies and damselflies (Odonata)</strong> are highly skilled aerial acrobats, due largely to the intricacies of their most prominent features: their <strong>wings</strong>. These structures are both functional and beautiful: they provide extreme maneuverability and durability in a lightweight package, and they can be marked with bright color patterns and even iridescence! The structure and appearance of these wings provides a <strong>rich source of information</strong> about the evolutionary history, aerodynamic constraints, and behavior of a species.</p>
 
-<p>The TOWD Project is part of an <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1564386&amp;HistoricalAwards=false">NSF-funded</a>, multi-institutional effort to develop ODOMATIC, software for automatically identifying Odonata from images. Initiated in 2016, the TOWD Project aims to digitize all North American dragonfly and damselfly species (some 464 species). We are working to produce a high-resolution imagery of these species (including multiple males and females from each), partnering with several odonate collections, and building the most complete dataset of odonate wings ever compiled.</p>
+<p>The Targeted Odonata Wing Digitization (TOWD) Project is part of an <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1564386&amp;HistoricalAwards=false"><strong>NSF-funded</strong></a>, multi-institutional effort to develop ODOMATIC, software for automatically identifying Odonata from images. Initiated in 2016, the TOWD Project aims to digitize the world’s dragonfly and damselfly species, starting with the approx. <strong>464 North American species</strong>. We are working to produce a <strong>high-resolution imagery</strong> of these species (including multiple males and females from each), partnering with several odonate collections, and building the most complete dataset of odonate wings ever compiled. Behind the scenes, we use <strong>computer vision</strong> to pull phenotypic information from our wings, which can be used for identification and comparative study.</p>
 
-<p>The TOWD dataset will be used for two main purposes:</p>
+<p>The TOWD dataset will be used for <strong>two main purposes</strong>:</p>
 <ol>
-  <li>as training data to expand the capabilities of <a href="https://www.crossveins.com/research">Odomatic</a> - an automatic species identification system for dragonflies and damselflies, and</li>
-  <li>to answer questions about the flight strategies, mating behavior and other aspects of odonate evolutionary biology.</li>
+  <li>as training data to <strong>expand the capabilities of <a href="https://www.crossveins.com/research">ODOMATIC</a></strong> - an automatic species recognition system for dragonflies and damselflies, and</li>
+  <li>to <strong>answer questions</strong> about the flight strategies, mating behavior and other aspects of odonate evolutionary biology.</li>
 </ol>
 
-<p>The TOWD Project’s imagery dataset will be made available to the public on <a href="https://www.odonatacentral.org/">OdonataCentral</a> via the <a href="http://www.cyverse.org/">CyVerse</a> cyberinfrastructure, once the project is complete. Until then, you can view a snapshot of our progress below.</p>
+<p>The TOWD Project’s imagery dataset will be made available to the public on <a href="https://www.odonatacentral.org/">OdonataCentral</a> via the <a href="http://www.cyverse.org/">CyVerse</a> cyberinfrastructure, once the project is complete. Until then, you can <a href="#project-progress"><strong>view our progress</strong></a> below.</p>
 
-<h3 id="meet-our-team">Meet Our Team</h3>
+<h3 id="how-does-digitization-work">How does digitization work?</h3>
 
-<p><strong>Dr. Jessica L. Ware</strong>, PI (<a href="https://www.jessicalwarelab.com/">website</a>)
-Jessica is an Associate Professor at Rutgers University-Newark and heads the Insect Systematics (IS) Lab there, where she and her students explore the evolutionary history of Odonata (dragonflies and damselflies) as well as Dictyoptera (cockroaches, termites, and mantises). She leads the TOWD digitization and research efforts at Rutgers.</p>
+<p>We designed an inexpensive digitization setup that uses a commercially-available desktop scanner (connected to a computer) and custom-build paper ‘frame’ placed on the scanner glass to hold things in place and standardize our images. The image below is an example of the final product: one pair of wings is excised and scanned separately from the rest of the body, which is also scanned along with labels and a color standard and scale. Each item gets it’s own ‘window’ in the frame and everything is imaged at once in one high-resolution scan.</p>
 
-<p><strong>Dr. John C. Abbott</strong>, co-PI (<a href="https://almnh.ua.edu/abbott.html">website</a>)
-John is an odonatologist and the Director of Museum Research &amp; Collections at the Alabama Museum of Natural History in Tuscaloosa. He leads the TOWD digitization efforts at ALMNH.</p>
+<p><img src="assets\UA-000856.jpg" alt="Example scan" /></p>
 
-<p><strong>Dr. Gareth Russell</strong>, co-PI (<a href="https://sites.google.com/a/njit.edu/russell-lab/">website</a>)
-Gareth is an Associate Professor at NJIT and plays an advisory role in the TOWD Project.</p>
+<h3 id="what-do-you-do-with-the-scans">What do you do with the scans?</h3>
 
-<p><strong>Dr. William R. Kuhn</strong>, senior personnel (<a href="https://crossveins.com">website</a>)
-Will is a graduate of the IS Lab and is now an NSF Postdoctoral Fellow at the University of Tennessee in Knoxville. The TOWD project is an extension of his dissertation work, in which he digitized a small set of Odonata and developed ODOMATIC. He manages the data workflow for TOWD, as well as this website.</p>
+<p>Specimen scans are uploaded to our dataset on <a href="https://bisque.cyverse.org">Cyverse’s BisQue</a> - a powerful imaging platform that allows us to view them from a web browser or work with them from the backend via scripts using BisQue’s API. It’s at this point that one of the most exciting parts of the project takes place behind the scenes, governed by <a href="#project-on-github">scripts</a>. Our specimen inventory is updated periodically by a script that reads barcodes and labels from the latest scans and checks them against collection databases to get species names and locality information associated with them. Another script detects the wings in each image and automatically measures morphometric properties of each wing (area, length, width, etc.), and also calculates information about its appearance and texture. We can these use these data to make comparisons among species or to update our ODOMATIC species recognition model, using machine learning.</p>
 
-<p><strong>Dr. Melissa Sanchez Herrera</strong>, postdoc (<a href="https://www.polythore.com/">website</a>)
-Also a graduate of the IS Lab, Melissa worked as a postdoc under the TOWD Project in 2017. There she helped get the Project up and running – developing our digitization protocol, beginning our effort to scan Odonata from several collections with a team of undergraduate students, and much more! She continues to collaborate with us from her new/old home in Bogotá, Colombia.</p>
+<h2 id="project-progress">Project progress</h2>
 
-<p><strong>Dr. Dirk Gassmann</strong>, postdoc (<a href="https://www.jessicalwarelab.com/postdoctoral">website</a>)
-Dirk is our current TOWD postdoc at the IS Lab. He manages a team of undergraduate students at Rutgers, continuing our scanning effort there. Dirk is also developing additional odonate datasets, seeking to answer questions about flight strategies among dragonflies.</p>
+<p>Our goal is to image at least 10 males and 10 females from each of the 464 North American dragonfly and damselfly species. The progress of this ambitious endeavor is listed below as quick stats and as an illustrative figure.</p>
 
-<h3 id="progress">Progress</h3>
+<h3 id="quick-stats-as-of-07-july-2018">Quick stats (as of 07 July 2018):</h3>
 
-<p>Our goal is to image at least 10 males and 10 females from each of the 464 North American dragonfly and damselfly species. The progress of this endeavor is illustrated below: black boxes are North American species, clusters of boxes are genera, and rows are families. The number of scans that we’ve made out of 10 for males (red) and females (blue) are shown as progress bars for each species.</p>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left"> </th>
+      <th style="text-align: right">Current</th>
+      <th style="text-align: right">Goal</th>
+      <th style="text-align: right">% of goal</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">North Amer. individuals scanned</td>
+      <td style="text-align: right">3,608</td>
+      <td style="text-align: right">9,280</td>
+      <td style="text-align: right">38.88%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">North Amer. species started (1+ scan)</td>
+      <td style="text-align: right">351</td>
+      <td style="text-align: right">464</td>
+      <td style="text-align: right">75.65%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">North Amer. species with 10+ scans</td>
+      <td style="text-align: right">179</td>
+      <td style="text-align: right">464</td>
+      <td style="text-align: right">38.58%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">North Amer. species completed*</td>
+      <td style="text-align: right">62</td>
+      <td style="text-align: right">464</td>
+      <td style="text-align: right">13.36%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">*completed species = 10 males + 10 females scanned</td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"> </td>
+      <td style="text-align: right"> </td>
+    </tr>
+  </tbody>
+</table>
 
-<p><img src="assets\Scanning progress - North American Odonata.png" alt="Wing digitization progress" /></p>
+<h3 id="progress-figure">Progress figure:</h3>
 
-<h3 id="publications">Publications</h3>
+<p><img src="assets\Scanning progress - North American Odonata.png" alt="Wing digitization progress" />
+Here, all North American species are represented as black boxes. Clusters of boxes represent genera, and rows are families. The number of scans that we’ve made out of 10 for males (red) and females (blue) are shown as progress bars for each species.</p>
+
+<h2 id="meet-our-team">Meet Our Team</h2>
+
+<h4 id="dr-jessica-l-ware-pi-website">Dr. Jessica L. Ware, PI (<a href="https://www.jessicalwarelab.com/">website</a>)</h4>
+<p>Jessica is an Associate Professor at Rutgers University-Newark and heads the Insect Systematics (IS) Lab there, where she and her students explore the evolutionary history of Odonata (dragonflies and damselflies) as well as Dictyoptera (cockroaches, termites, and mantises). She leads the TOWD digitization and research efforts at Rutgers.</p>
+
+<h4 id="dr-john-c-abbott-co-pi-website">Dr. John C. Abbott, co-PI (<a href="https://almnh.ua.edu/abbott.html">website</a>)</h4>
+<p>John is an odonatologist and the Director of Museum Research &amp; Collections at the Alabama Museum of Natural History in Tuscaloosa. He leads the TOWD digitization efforts at ALMNH.</p>
+
+<h4 id="dr-gareth-russell-co-pi-website">Dr. Gareth Russell, co-PI (<a href="https://sites.google.com/a/njit.edu/russell-lab/">website</a>)</h4>
+<p>Gareth is an Associate Professor at the New Jersey Institute of Technology and plays an advisory role in the TOWD Project.</p>
+
+<h4 id="dr-william-r-kuhn-senior-personnel-website">Dr. William R. Kuhn, senior personnel (<a href="https://crossveins.com">website</a>)</h4>
+<p>Will is a graduate of the IS Lab and is now an NSF Postdoctoral Fellow at the University of Tennessee in Knoxville. The TOWD project is an extension of his dissertation work, in which he digitized a small set of Odonata and developed ODOMATIC. He manages the data workflow for TOWD, as well as this website.</p>
+
+<h4 id="dr-melissa-sanchez-herrera-postdoc-website">Dr. Melissa Sanchez Herrera, postdoc (<a href="https://www.polythore.com/">website</a>)</h4>
+<p>Also a graduate of the IS Lab, Melissa worked as a postdoc under the TOWD Project in 2017. There she helped get the Project up and running – developing our digitization protocol, beginning our effort to scan Odonata from several collections with a team of undergraduate students, and much more! She continues to collaborate with us from her new/old home in Bogotá, Colombia.</p>
+
+<h4 id="dr-dirk-gassmann-postdoc-website">Dr. Dirk Gassmann, postdoc (<a href="https://www.jessicalwarelab.com/postdoctoral">website</a>)</h4>
+<p>Dirk is our current TOWD postdoc at the IS Lab. He manages a team of undergraduate students at Rutgers, continuing our scanning effort there. Dirk is also developing additional odonate datasets, seeking to answer questions about flight strategies among dragonflies.</p>
+
+<h2 id="odonata-collection-partners">Odonata Collection Partners</h2>
+
+<p>Our work can’t be done without the dragonfly and damselfly specimens to digitize. We’ve partnered with several Odonata collections in North America. We’d like to thank our partners for allowing us to work with their collections!</p>
+
+<ul>
+  <li>Insect Systematic Lab Collection at Rutgers University-Newark (Newark, NJ)</li>
+  <li>Mike May Collection (New Brunswick, NJ)</li>
+  <li>John Abbott Collection (Tuscaloosa, AL)</li>
+  <li>Rosser W. Garrison Collection (Sacramento, CA)</li>
+</ul>
+
+<h2 id="publications">Publications</h2>
 
 <p>Coming soon!</p>
 
-<h3 id="acknowledgement-of-nsf-support">Acknowledgement of NSF Support</h3>
+<h2 id="project-on-github">Project on GitHub</h2>
+
+<p>The behind-the-scene scripts that run the data workflow of this project are publicly available on <a href="link">GitHub</a>.</p>
+
+<h2 id="acknowledgement-of-nsf-support">Acknowledgement of NSF Support</h2>
 <p>This material is based upon work supported by the National Science Foundation under Grant No. 1564386. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.</p>
 
 
