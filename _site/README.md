@@ -39,7 +39,7 @@ Our goal is to image at least 10 males and 10 females from each of the 464 North
 ### Progress figure:
 
 ![Wing digitization progress](assets\Scanning progress - North American Odonata.png)
-Here, all North American species are represented as black boxes. Clusters of boxes represent genera, and rows are families. The number of scans that we've made out of 10 for males (red) and females (blue) are shown as progress bars for each species.
+Here, all North American species are represented as black boxes. Clusters of boxes represent genera (sorted alphabetically), and rows are families. The number of scans that we've made out of 10 for males (red) and females (blue) are shown as progress bars for each species.
 
 ## Meet Our Team
 
