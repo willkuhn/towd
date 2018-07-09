@@ -3,7 +3,28 @@
 
 @import "{{ site.theme }}";
 
-// Change hyperlink color to green
-a, a:hover, strong{
-    color: #5B974F;
+// Change font family
+body, h3, h4, h5, h6 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #181916; // eerie black
+}
+
+// Links color
+a, a:hover {
+  color: #5B974F; // middle green
+}
+a:visited {
+  color: #3A6133; // mughal green
+}
+
+// Style images in body
+section img {
+    display: block;
+    margin-left:  auto;
+    margin-right: auto;
+}
+
+// Style images in body
+p.scan img {
+    max-width: 60%;
 }

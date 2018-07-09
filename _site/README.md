@@ -16,6 +16,7 @@ The TOWD Project's imagery dataset will be made available to the public on [Odon
 
 We designed an inexpensive digitization setup that uses a commercially-available desktop scanner (connected to a computer) and custom-build paper 'frame' placed on the scanner glass to hold things in place and standardize our images. The image below is an example of the final product: one pair of wings is excised and scanned separately from the rest of the body, which is also scanned along with labels and a color standard and scale. Each item gets it's own 'window' in the frame and everything is imaged at once in one high-resolution scan.
 
+{:.scan}
 ![Example scan](assets\UA-000856.jpg)
 
 ### What do you do with the scans?
@@ -65,7 +66,7 @@ Dirk is our current TOWD postdoc at the IS Lab. He manages a team of undergradua
 
 Our work can't be done without the dragonfly and damselfly specimens to digitize. We've partnered with several Odonata collections in North America. We'd like to thank our partners for allowing us to work with their collections!
 
-- Insect Systematic Lab Collection at Rutgers University-Newark (Newark, NJ)
+- Insect Systematic Lab Collection at Rutgers University-Newark (NJ)
 - Mike May Collection (New Brunswick, NJ)
 - John Abbott Collection (Tuscaloosa, AL)
 - Rosser W. Garrison Collection (Sacramento, CA)
