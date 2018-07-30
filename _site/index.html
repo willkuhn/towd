@@ -19,7 +19,7 @@
 {"name":"TOWD Project","description":"Exploring the evolutionary history of dragonflies and damselflies (Odonata) from their wings!","@type":"WebSite","url":"http://localhost:4000/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/towd-project-logo.png"}},"headline":"Targeted Odonata Wing Digitization (TOWD) Project","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=ccfe0d4b112e912e9709f4770ea83e4a03d586f8">
+    <link rel="stylesheet" href="/assets/css/style.css?v=e11a417e9cc50b1745d6fe35b25eb7dd59a3d0a3">
     <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -47,7 +47,24 @@
 
       <h1 id="targeted-odonata-wing-digitization-towd-project">Targeted Odonata Wing Digitization (TOWD) Project</h1>
 
-<h2 id="about-the-project">About the Project</h2>
+<hr />
+
+<table class="menu">
+  <tbody>
+    <tr>
+      <td><strong><a href="index.html#">Home</a></strong></td>
+      <td><strong><a href="index.html#about-the-project">About</a></strong></td>
+      <td><strong><a href="index.html#project-progress">Progress</a></strong></td>
+      <td><strong><a href="index.html#who-is-the-towd-project">Team</a></strong></td>
+      <td><strong><a href="index.html#publications">Publications</a></strong></td>
+      <td><strong><a href="index.html#resources">Resources</a></strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="about-the-project">About the Project<a href="#"><img src="assets/top-icon.png" alt="back to top" /></a></h2>
 
 <p><strong>Dragonflies and damselflies (Odonata)</strong> are highly skilled aerial acrobats, due largely to the intricacies of their most prominent features: their <strong>wings</strong>. These structures are both functional and beautiful: they provide extreme maneuverability and durability in a lightweight package, and they can be marked with bright color patterns and even iridescence! The structure and appearance of these wings provides a <strong>rich source of information</strong> about the evolutionary history, aerodynamic constraints, and behavior of a species.</p>
 
@@ -67,11 +84,14 @@
 
 <p class="scan"><img src="assets\UA-000856.jpg" alt="Example scan" /></p>
 
-<h3 id="what-do-you-do-with-the-scans">What do you do with the scans?</h3>
+<h3 id="what-do-we-do-with-the-scans">What do we do with the scans?</h3>
 
 <p>Specimen scans are uploaded to our dataset on <a href="https://bisque.cyverse.org">Cyverse’s BisQue</a> - a powerful imaging platform that allows us to view them from a web browser or work with them from the backend via scripts using BisQue’s API. It’s at this point that one of the most exciting parts of the project takes place behind the scenes, governed by <a href="#project-on-github">scripts</a>. Our specimen inventory is updated periodically by a script that reads barcodes and labels from the latest scans and checks them against collection databases to get species names and locality information associated with them. Another script detects the wings in each image and automatically measures morphometric properties of each wing (area, length, width, etc.), and also calculates information about its appearance and texture. We can these use these data to make comparisons among species or to update our ODOMATIC species recognition model, using machine learning.</p>
 
-<h2 id="project-progress">Project progress</h2>
+<h3 id="acknowledgement-of-nsf-support">Acknowledgement of NSF Support</h3>
+<p>This material is based upon work supported by the National Science Foundation under Grant No. 1564386. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.</p>
+
+<h2 id="project-progress">Project progress<a href="#"><img src="assets/top-icon.png" alt="back to top" /></a></h2>
 
 <p>Our goal is to image at least 10 males and 10 females from each of the 464 North American dragonfly and damselfly species. The progress of this ambitious endeavor is listed below as quick stats and as an illustrative figure.</p>
 
@@ -125,7 +145,9 @@
 <p><img src="assets\Scanning progress - North American Odonata.png" alt="Wing digitization progress" />
 Here, all North American species are represented as black boxes. Clusters of boxes represent genera (sorted alphabetically), and rows are families. The number of scans that we’ve made out of 10 for males (red) and females (blue) are shown as progress bars for each species.</p>
 
-<h2 id="meet-our-team">Meet Our Team</h2>
+<h2 id="who-is-the-towd-project">Who is the TOWD Project?<a href="#"><img src="assets/top-icon.png" alt="back to top" /></a></h2>
+
+<h3 id="meet-our-team">Meet Our Team</h3>
 
 <h4 id="dr-jessica-l-ware-pi-website">Dr. Jessica L. Ware, PI (<a href="https://www.jessicalwarelab.com/">website</a>)</h4>
 <p>Jessica is an Associate Professor at Rutgers University-Newark and heads the Insect Systematics (IS) Lab there, where she and her students explore the evolutionary history of Odonata (dragonflies and damselflies) as well as Dictyoptera (cockroaches, termites, and mantises). She leads the TOWD digitization and research efforts at Rutgers.</p>
@@ -145,7 +167,7 @@ Here, all North American species are represented as black boxes. Clusters of box
 <h4 id="dr-dirk-gassmann-postdoc-website">Dr. Dirk Gassmann, postdoc (<a href="https://www.jessicalwarelab.com/postdoctoral">website</a>)</h4>
 <p>Dirk is our current TOWD postdoc at the IS Lab. He manages a team of undergraduate students at Rutgers, continuing our scanning effort there. Dirk is also developing additional odonate datasets, seeking to answer questions about flight strategies among dragonflies.</p>
 
-<h2 id="odonata-collection-partners">Odonata Collection Partners</h2>
+<h3 id="odonata-collection-partners">Odonata Collection Partners</h3>
 
 <p>Our work can’t be done without the dragonfly and damselfly specimens to digitize. We’ve partnered with several Odonata collections in North America. We’d like to thank our partners for allowing us to work with their collections!</p>
 
@@ -156,16 +178,15 @@ Here, all North American species are represented as black boxes. Clusters of box
   <li>Rosser W. Garrison Collection (Sacramento, CA)</li>
 </ul>
 
-<h2 id="publications">Publications</h2>
+<h2 id="publications">Publications<a href="#"><img src="assets/top-icon.png" alt="back to top" /></a></h2>
 
 <p>Coming soon!</p>
 
-<h2 id="project-on-github">Project on GitHub</h2>
+<h2 id="resources">Resources<a href="#"><img src="assets/top-icon.png" alt="back to top" /></a></h2>
+
+<h3 id="project-on-github">Project on GitHub</h3>
 
 <p>The behind-the-scene scripts that run the data workflow of this project are publicly available on <a href="link">GitHub</a>.</p>
-
-<h2 id="acknowledgement-of-nsf-support">Acknowledgement of NSF Support</h2>
-<p>This material is based upon work supported by the National Science Foundation under Grant No. 1564386. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.</p>
 
 
       </section>

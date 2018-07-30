@@ -1,6 +1,13 @@
 # Targeted Odonata Wing Digitization (TOWD) Project
 
-## About the Project
+* * *
+
+{:.menu}
+| **[Home](index.html#)** | **[About](index.html#about-the-project)** | **[Progress](index.html#project-progress)** | **[Team](index.html#who-is-the-towd-project)** | **[Publications](index.html#publications)** | **[Resources](index.html#resources)** |
+
+* * *
+
+## About the Project<a href="#"><img src="assets/top-icon.png" alt="back to top"></a>
 
 **Dragonflies and damselflies (Odonata)** are highly skilled aerial acrobats, due largely to the intricacies of their most prominent features: their **wings**. These structures are both functional and beautiful: they provide extreme maneuverability and durability in a lightweight package, and they can be marked with bright color patterns and even iridescence! The structure and appearance of these wings provides a **rich source of information** about the evolutionary history, aerodynamic constraints, and behavior of a species.
 
@@ -19,11 +26,14 @@ We designed an inexpensive digitization setup that uses a commercially-available
 {:.scan}
 ![Example scan](assets\UA-000856.jpg)
 
-### What do you do with the scans?
+### What do we do with the scans?
 
 Specimen scans are uploaded to our dataset on [Cyverse's BisQue](https://bisque.cyverse.org) - a powerful imaging platform that allows us to view them from a web browser or work with them from the backend via scripts using BisQue's API. It's at this point that one of the most exciting parts of the project takes place behind the scenes, governed by [scripts](#project-on-github). Our specimen inventory is updated periodically by a script that reads barcodes and labels from the latest scans and checks them against collection databases to get species names and locality information associated with them. Another script detects the wings in each image and automatically measures morphometric properties of each wing (area, length, width, etc.), and also calculates information about its appearance and texture. We can these use these data to make comparisons among species or to update our ODOMATIC species recognition model, using machine learning.
 
-## Project progress
+### Acknowledgement of NSF Support
+This material is based upon work supported by the National Science Foundation under Grant No. 1564386. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+
+## Project progress<a href="#"><img src="assets/top-icon.png" alt="back to top"></a>
 
 Our goal is to image at least 10 males and 10 females from each of the 464 North American dragonfly and damselfly species. The progress of this ambitious endeavor is listed below as quick stats and as an illustrative figure.
 
@@ -42,7 +52,9 @@ Our goal is to image at least 10 males and 10 females from each of the 464 North
 ![Wing digitization progress](assets\Scanning progress - North American Odonata.png)
 Here, all North American species are represented as black boxes. Clusters of boxes represent genera (sorted alphabetically), and rows are families. The number of scans that we've made out of 10 for males (red) and females (blue) are shown as progress bars for each species.
 
-## Meet Our Team
+## Who is the TOWD Project?<a href="#"><img src="assets/top-icon.png" alt="back to top"></a>
+
+### Meet Our Team
 
 #### Dr. Jessica L. Ware, PI ([website](https://www.jessicalwarelab.com/))
 Jessica is an Associate Professor at Rutgers University-Newark and heads the Insect Systematics (IS) Lab there, where she and her students explore the evolutionary history of Odonata (dragonflies and damselflies) as well as Dictyoptera (cockroaches, termites, and mantises). She leads the TOWD digitization and research efforts at Rutgers.
@@ -62,7 +74,7 @@ Also a graduate of the IS Lab, Melissa worked as a postdoc under the TOWD Projec
 #### Dr. Dirk Gassmann, postdoc ([website](https://www.jessicalwarelab.com/postdoctoral))
 Dirk is our current TOWD postdoc at the IS Lab. He manages a team of undergraduate students at Rutgers, continuing our scanning effort there. Dirk is also developing additional odonate datasets, seeking to answer questions about flight strategies among dragonflies.
 
-## Odonata Collection Partners
+### Odonata Collection Partners
 
 Our work can't be done without the dragonfly and damselfly specimens to digitize. We've partnered with several Odonata collections in North America. We'd like to thank our partners for allowing us to work with their collections!
 
@@ -71,13 +83,12 @@ Our work can't be done without the dragonfly and damselfly specimens to digitize
 - John Abbott Collection (Tuscaloosa, AL)
 - Rosser W. Garrison Collection (Sacramento, CA)
 
-## Publications
+## Publications<a href="#"><img src="assets/top-icon.png" alt="back to top"></a>
 
 Coming soon!
 
-## Project on GitHub
+## Resources<a href="#"><img src="assets/top-icon.png" alt="back to top"></a>
+
+### Project on GitHub
 
 The behind-the-scene scripts that run the data workflow of this project are publicly available on [GitHub](link).
-
-## Acknowledgement of NSF Support
-This material is based upon work supported by the National Science Foundation under Grant No. 1564386. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
