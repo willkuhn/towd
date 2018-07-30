@@ -68,6 +68,12 @@ Gareth is an Associate Professor at the New Jersey Institute of Technology and p
 #### Dr. William R. Kuhn, senior personnel ([website](https://crossveins.com))
 Will is a graduate of the IS Lab and is now an NSF Postdoctoral Fellow at the University of Tennessee in Knoxville. The TOWD project is an extension of his dissertation work, in which he digitized a small set of Odonata and developed ODOMATIC. He manages the data workflow for TOWD, as well as this website.
 
+#### Dr. Kimberly N Russell, senior personnel ([website](https://kimberlynrussell.weebly.com/))
+Kim is an Assistant Professor at Rutgers University-New Brunswick and plays an advisory role in the TOWD Project.
+
+#### Dr. Michael L May, senior personnel ([website](https://entomology.rutgers.edu/personnel/michael-may.html))
+Mike is a retired Professor from Rutgers University-New Brunswick and plays an advisory role in the TOWD Project.
+
 #### Dr. Melissa Sanchez Herrera, postdoc ([website](https://www.polythore.com/))
 Also a graduate of the IS Lab, Melissa worked as a postdoc under the TOWD Project in 2017. There she helped get the Project up and running -- developing our digitization protocol, beginning our effort to scan Odonata from several collections with a team of undergraduate students, and much more! She continues to collaborate with us from her new/old home in Bogotá, Colombia.
 
@@ -76,7 +82,7 @@ Dirk is our current TOWD postdoc at the IS Lab. He manages a team of undergradua
 
 ### Odonata Collection Partners
 
-Our work can't be done without the dragonfly and damselfly specimens to digitize. We've partnered with several Odonata collections in North America. We'd like to thank our partners for allowing us to work with their collections!
+Our work couldn't be done without the dragonfly and damselfly specimens to digitize. We've partnered with several Odonata collections in North America. We'd like to thank our partners for allowing us to work with their collections!
 
 - Insect Systematic Lab Collection at Rutgers University-Newark (NJ)
 - Mike May Collection (New Brunswick, NJ)
