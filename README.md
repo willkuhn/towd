@@ -7,11 +7,11 @@
 
 * * *
 
-## About the Project<a href="#">
+## About the Project
 
 **Dragonflies and damselflies (Odonata)** are highly skilled aerial acrobats, due largely to the intricacies of their most prominent features: their **wings**. These structures are both functional and beautiful: they provide extreme maneuverability and durability in a lightweight package, and they can be marked with bright color patterns and even iridescence! The structure and appearance of these wings provides a **rich source of information** about the evolutionary history, aerodynamic constraints, and behavior of a species.
 
-The Targeted Odonata Wing Digitization (TOWD) Project is part of an [**NSF-funded**](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1564386&HistoricalAwards=false), multi-institutional effort to develop ODOMATIC, software for automatically identifying Odonata from images. Initiated in 2016, the TOWD Project aims to digitize the world's dragonfly and damselfly species, starting with the approx. **464 North American species**. We are working to produce a **high-resolution imagery** of these species (including multiple males and females from each), partnering with several odonate collections, and building the most complete dataset of odonate wings ever compiled. Behind the scenes, we use **computer vision** to pull phenotypic information from our wings, which can be used for identification and comparative study.
+The Targeted Odonata Wing Digitization (TOWD) Project is part of an [**NSF-funded**](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1564386&HistoricalAwards=false), multi-institutional effort to develop ODOMATIC, software for automatically identifying Odonata from images. Initiated in 2016, the TOWD Project aims to digitize the world's dragonfly and damselfly species, starting with the approx. **466 North American species**. We are working to produce a **high-resolution imagery** of these species (including multiple males and females from each), partnering with several odonate collections, and building the most complete dataset of odonate wings ever compiled. Behind the scenes, we use **computer vision** to pull phenotypic information from our wings, which can be used for identification and comparative study.
 
 The TOWD dataset will be used for **two main purposes**:
 1. as training data to **expand the capabilities of [ODOMATIC](https://www.crossveins.com/research)** - an automatic species recognition system for dragonflies and damselflies, and
@@ -33,18 +33,18 @@ Specimen scans are uploaded to our dataset on [Cyverse's BisQue](https://bisque.
 ### Acknowledgement of NSF Support
 This material is based upon work supported by the National Science Foundation under Grant No. 1564386. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
 
-## Project progress<a href="#">
+## Project progress
 
-Our goal is to image at least 10 males and 10 females from each of the 464 North American dragonfly and damselfly species. The progress of this ambitious endeavor is listed below as quick stats and as an illustrative figure.
+Our goal is to image at least 10 males and 10 females from each of the 466 North American dragonfly and damselfly species. The progress of this ambitious endeavor is listed below as quick stats and as an illustrative figure.
 
-### Quick stats (as of 07 July 2018):
+### Quick stats (as of 13 August 2018):
 
 |                                                       | Current | Goal  | % of goal |
 |:------------------------------------------------------|--------:|------:|----------:|
-| North Amer. individuals scanned                       | 3,608   | 9,280 | 38.88%    |
-| North Amer. species started (1+ scan)                 | 351     | 464   | 75.65%    |
-| North Amer. species with 10+ scans                    | 179     | 464   | 38.58%    |
-| North Amer. species completed*                        | 62      | 464   | 13.36%    |
+| North Amer. individuals scanned                       | 3,932   | 9,320 | 42%       |
+| North Amer. species started (1+ scan)                 | 357     | 466   | 77%       |
+| North Amer. species with 10+ scans                    | 199     | 466   | 43%       |
+| North Amer. species completed*                        | 71      | 466   | 15%       |
 | *completed species = 10 males + 10 females scanned                                  |
 
 ### Progress figure:
@@ -52,7 +52,7 @@ Our goal is to image at least 10 males and 10 females from each of the 464 North
 ![Wing digitization progress](assets\Scanning progress - North American Odonata.png)
 Here, all North American species are represented as black boxes. Clusters of boxes represent genera (sorted alphabetically), and rows are families. The number of scans that we've made out of 10 for males (red) and females (blue) are shown as progress bars for each species.
 
-## Who is the TOWD Project?<a href="#">
+## Who is the TOWD Project?
 
 ### Meet Our Team
 
@@ -89,11 +89,11 @@ Our work couldn't be done without the dragonfly and damselfly specimens to digit
 - John Abbott Collection (Tuscaloosa, AL)
 - Rosser W. Garrison Collection (Sacramento, CA)
 
-## Publications<a href="#">
+## Publications
 
 Coming soon!
 
-## Resources<a href="#">
+## Resources
 
 ### Project on GitHub
 
