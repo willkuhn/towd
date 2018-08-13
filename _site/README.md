@@ -35,17 +35,11 @@ This material is based upon work supported by the National Science Foundation un
 
 ## Project progress
 
-Our goal is to image at least 10 males and 10 females from each of the 466 North American dragonfly and damselfly species. The progress of this ambitious endeavor is listed below as quick stats and as an illustrative figure.
+Our goal is to image at least 10 males and 10 females from each of the 466 dragonfly and damselfly species in Canada and the US. The progress of this ambitious endeavor is listed below as quick stats and as an illustrative figure.
 
 ### Quick stats (as of 13 August 2018):
 
-|                                                       | Current | Goal  | % of goal |
-|:------------------------------------------------------|--------:|------:|----------:|
-| North Amer. individuals scanned                       | 3,932   | 9,320 | 42%       |
-| North Amer. species started (1+ scan)                 | 357     | 466   | 77%       |
-| North Amer. species with 10+ scans                    | 199     | 466   | 43%       |
-| North Amer. species completed*                        | 71      | 466   | 15%       |
-| *completed species = 10 males + 10 females scanned                                  |
+{% include quick_stats_table.md %}
 
 ### Progress figure:
 
