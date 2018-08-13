@@ -7,7 +7,7 @@
 
 * * *
 
-## About the Project<a href="#"><img src="assets/top-icon.png" alt="back to top"></a>
+## About the Project<a href="#">
 
 **Dragonflies and damselflies (Odonata)** are highly skilled aerial acrobats, due largely to the intricacies of their most prominent features: their **wings**. These structures are both functional and beautiful: they provide extreme maneuverability and durability in a lightweight package, and they can be marked with bright color patterns and even iridescence! The structure and appearance of these wings provides a **rich source of information** about the evolutionary history, aerodynamic constraints, and behavior of a species.
 
@@ -33,7 +33,7 @@ Specimen scans are uploaded to our dataset on [Cyverse's BisQue](https://bisque.
 ### Acknowledgement of NSF Support
 This material is based upon work supported by the National Science Foundation under Grant No. 1564386. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
 
-## Project progress<a href="#"><img src="assets/top-icon.png" alt="back to top"></a>
+## Project progress<a href="#">
 
 Our goal is to image at least 10 males and 10 females from each of the 464 North American dragonfly and damselfly species. The progress of this ambitious endeavor is listed below as quick stats and as an illustrative figure.
 
@@ -52,7 +52,7 @@ Our goal is to image at least 10 males and 10 females from each of the 464 North
 ![Wing digitization progress](assets\Scanning progress - North American Odonata.png)
 Here, all North American species are represented as black boxes. Clusters of boxes represent genera (sorted alphabetically), and rows are families. The number of scans that we've made out of 10 for males (red) and females (blue) are shown as progress bars for each species.
 
-## Who is the TOWD Project?<a href="#"><img src="assets/top-icon.png" alt="back to top"></a>
+## Who is the TOWD Project?<a href="#">
 
 ### Meet Our Team
 
@@ -89,12 +89,12 @@ Our work couldn't be done without the dragonfly and damselfly specimens to digit
 - John Abbott Collection (Tuscaloosa, AL)
 - Rosser W. Garrison Collection (Sacramento, CA)
 
-## Publications<a href="#"><img src="assets/top-icon.png" alt="back to top"></a>
+## Publications<a href="#">
 
 Coming soon!
 
-## Resources<a href="#"><img src="assets/top-icon.png" alt="back to top"></a>
+## Resources<a href="#">
 
 ### Project on GitHub
 
-The behind-the-scene scripts that run the data workflow of this project are publicly available on [GitHub](link).
+The behind-the-scene scripts that run the data workflow of this project are publicly available on [GitHub](https://github.com/willkuhn/towd-wing-scanning-project).
