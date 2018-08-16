@@ -3,4 +3,9 @@ title: TOWD Project
 description: Exploring the evolutionary history of dragonflies and damselflies (Odonata) from their wings!
 logo: assets/towd-project-logo.png
 show_downloads: False
+
 google_analytics: UA-121883947-1
+
+# Conversion
+markdown:    kramdown
+highlighter: rouge
