@@ -19,14 +19,9 @@ $link-color                      : $site-color;
 // Style menu
 table {
 
-  &.menu {
-      border: 0px;
-      text-align:  center;
-      width: 100%;
-
-    td {
-        border: 0px;
-    }
+  &.quick-stats tr th {
+    font-weight: normal;
+    font-size: 80%;
   }
 }
 
@@ -80,7 +75,7 @@ img {
 	-webkit-box-shadow: none;
 }
 
-// Style images in body
+// Style scan example
 figure.scan {
     max-width: 60%;
     display: block;
@@ -132,4 +127,10 @@ figure.scan {
 	outline: none;
 	margin: 10px;
 	opacity: 0.8;
+}
+
+// HORIZONTAL LINE
+hr {
+  background: $text-color;
+  opacity: 0.5;
 }
