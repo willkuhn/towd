@@ -37,9 +37,9 @@ This material is based upon work supported by the National Science Foundation un
 
 Our goal is to image at least 10 males and 10 females from each of the 466 dragonfly and damselfly species in Canada and the US. The progress of this ambitious endeavor is listed below as quick stats and as an illustrative figure.
 
-### Quick stats (as of 13 August 2018):
+### North American progress (as of {{ site.data.stats.last_update }}):
 
-{% include quick_stats_table.md %}
+{% include quick_stats_table.html %}
 
 ### Progress figure:
 
