@@ -83,7 +83,7 @@ Our work couldn't be done without the dragonfly and damselfly specimens to digit
 
 ### Presentations
 
-UPCOMING: Gassmann, D, J Ware, W Kuhn, JC Abbott, M Sanchez (2018) The Targeted Odonata Wing Digitization (TOWD) project: creating a unique resource for studying wing evolution in dragonflies (Odonata). EntSoc, Vancouver, Canada. Tuesday Nov. 13 10:10 AM (SysEB, Evolution & Diversity of Odonata and Polyneoptera)
+Gassmann, D, J Ware, W Kuhn, JC Abbott, M Sanchez (2018) The Targeted Odonata Wing Digitization (TOWD) project: creating a unique resource for studying wing evolution in dragonflies (Odonata). EntSoc, Vancouver, Canada. Tuesday Nov. 13 10:10 AM (SysEB, Evolution & Diversity of Odonata and Polyneoptera)
 
 Kuhn, WR, JL Ware, JC Abbott, M Sanchez-Herrera, D Gassmann (2017) Automatic dragonfly identification with Odomatic and the Targeted Odonata Wing Digitization (TOWD) project. Int. Congress Odonatology, Cambridge, UK.
 
