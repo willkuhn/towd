@@ -83,15 +83,17 @@ Our work couldn't be done without the dragonfly and damselfly specimens to digit
 
 ### Presentations
 
-Gassmann, D, J Ware, W Kuhn, JC Abbott, M Sanchez (2018) The Targeted Odonata Wing Digitization (TOWD) project: creating a unique resource for studying wing evolution in dragonflies (Odonata). EntSoc, Vancouver, Canada. Tuesday Nov. 13 10:10 AM (SysEB, Evolution & Diversity of Odonata and Polyneoptera)
+Kuhn, WR, JL Ware, JC Abbott, M Sanchez-Herrera, D Gassmann (2019) Automatically measuring dragonfly wings: an update on the Targeted Odonata Wing Digitization (TOWD) project. International Congress of Odonatology, Austin, TX.
 
-Kuhn, WR, JL Ware, JC Abbott, M Sanchez-Herrera, D Gassmann (2017) Automatic dragonfly identification with Odomatic and the Targeted Odonata Wing Digitization (TOWD) project. Int. Congress Odonatology, Cambridge, UK.
+Gassmann, D, J Ware, W Kuhn, JC Abbott, M Sanchez (2018) The Targeted Odonata Wing Digitization (TOWD) project: creating a unique resource for studying wing evolution in dragonflies (Odonata). Entomological Society of America Annual Meeting, Vancouver, BC, Canada.
 
-Kuhn, WR, G Russell, J Ware (2016) Ode-omatic ID: A system for automatically identifying dragonflies and damselflies from wings. XXV Int’l Congress Entomology, Orlando, FL.
+Kuhn, WR, JL Ware, JC Abbott, M Sanchez-Herrera, D Gassmann (2017) Automatic dragonfly identification with Odomatic and the Targeted Odonata Wing Digitization (TOWD) project. International Congress Odonatology, Cambridge, UK.
+
+Kuhn, WR, G Russell, J Ware (2016) Ode-omatic ID: A system for automatically identifying dragonflies and damselflies from wings. XXV International Congress Entomology, Orlando, FL.
 
 ### Posters
 
-Elmonier, A, D Gassmann, WR Kuhn, J Ware (2018) The relationship between wing color pattern, wing area, and wing weight in *Celithemis* dragonflies based on the TOWD image database. 10th Annual GS-LSAMP Research Conference. [pdf](assets/Ahmed_poster.pdf)
+Elmonier, A, D Gassmann, WR Kuhn, J Ware (2018) The relationship between wing color pattern, wing area, and wing weight in *Celithemis* dragonflies based on the TOWD image database. 10th Annual GS-LSAMP Research Conference, Rutgers University-Newark, NJ. [pdf](assets/Ahmed_poster.pdf)
 
 ### Publications
 
