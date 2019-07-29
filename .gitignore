@@ -1,5 +1,6 @@
 # Jekyll
 _site/
+docs/Gemfile.lock
 TODO
 
 # Byte-compiled / optimized / DLL files
