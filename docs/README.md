@@ -103,6 +103,12 @@ Coming soon!
 
 ## Resources
 
+- [printable scanning frame](/resources/TOWD scanning frame v2_0.pdf)
+- [printable template for foamboard cutouts](/resources/TOWD foamboard cutouts template.pdf) (part of scanning process)
+- [TOWD digitization instructions](/resources/TOWD digitization protocol.pdf) on Windows or Linux, using GIMP
+- [TOWD digitization instructions](/resources/TOWD digitization protocol - Mac, no GIMP.pdf) on Mac OS
+- [color standard](https://www.bhphotovideo.com/c/product/714596-REG/Tiffen_EK1527654T_Q_13_Color_Separation_Guide.html) - Tiffen Q-13 Color Separation Guide (Small)
+
 ### Project on GitHub
 
 The behind-the-scene scripts that run the data workflow of this project are publicly available on [GitHub](https://github.com/willkuhn/towd-wing-scanning-project).
