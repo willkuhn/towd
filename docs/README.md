@@ -85,6 +85,8 @@ Our work couldn't be done without the dragonfly and damselfly specimens to digit
 
 Kuhn, WR, JL Ware, JC Abbott, M Sanchez-Herrera, D Gassmann (2019) Automatically measuring dragonfly wings: an update on the Targeted Odonata Wing Digitization (TOWD) project. International Congress of Odonatology, Austin, TX.
 
+Ware, JL, WR Kuhn, JC Abbott (2019) Using specimens from the past to understand the living world through digitization. Eastern Branch Meeting of the Entomological Society of America, Blackburg, VA. ([slides pdf and related talks](https://www.idigbio.org/wiki/index.php/Digital_Future_of_Entomology_at_Eastern_Branch_EntSoc_2019))
+
 Gassmann, D, J Ware, W Kuhn, JC Abbott, M Sanchez (2018) The Targeted Odonata Wing Digitization (TOWD) project: creating a unique resource for studying wing evolution in dragonflies (Odonata). Entomological Society of America Annual Meeting, Vancouver, BC, Canada.
 
 Kuhn, WR, JL Ware, JC Abbott, M Sanchez-Herrera, D Gassmann (2017) Automatic dragonfly identification with Odomatic and the Targeted Odonata Wing Digitization (TOWD) project. International Congress Odonatology, Cambridge, UK.
@@ -103,6 +105,7 @@ Coming soon!
 
 ## Resources
 
+- [TOWD Project image library (on CyVerse BisQue)](https://bisque.cyverse.org/client_service/view?resource=https://bisque.cyverse.org/data_service/00-F7qU3mVyCvyoTqPzrbiHZA)
 - [printable scanning frame](/resources/TOWD scanning frame v2_0.pdf)
 - [printable template for foamboard cutouts](/resources/TOWD foamboard cutouts template.pdf) (part of scanning process)
 - [TOWD digitization instructions](/resources/TOWD digitization protocol.pdf) on Windows or Linux, using GIMP
