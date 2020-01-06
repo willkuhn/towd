@@ -66,7 +66,10 @@ Mike is a retired Professor from Rutgers University-New Brunswick and plays an a
 Also a graduate of the IS Lab, Melissa worked as a postdoc under the TOWD Project in 2017. There she helped get the Project up and running -- developing our digitization protocol, beginning our effort to scan Odonata from several collections with a team of undergraduate students, and much more! She continues to collaborate with us from her new/old home in Bogotá, Colombia.
 
 #### Dr. Dirk Gassmann, postdoc ([website](https://www.jessicalwarelab.com/postdoctoral))
-Dirk is our current TOWD postdoc at the IS Lab. He manages a team of undergraduate students at Rutgers, continuing our scanning effort there. Dirk is also developing additional odonate datasets, seeking to answer questions about flight strategies among dragonflies.
+Dirk worked as a postdoc under the TOWD project. He managed a team of undergraduate students at Rutgers, continuing our scanning effort there. Dirk worked to develop additional odonate datasets, seeking to answer questions about flight strategies among dragonflies.
+
+#### Dr. Manpreet Kohli, senior personnel ([website](https://manpreetkohli.me/))
+Manpreet is a recent graduate of the IS Lab and has played an advisory role for the TOWD Project.
 
 ### Odonata Collection Partners
 
