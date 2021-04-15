@@ -1,17 +1,5 @@
-indivs:
-  c: 4,073
-  g: 9,320
-  p: 43.7%
-last_update: 27 November 2019
-spp_comp:
-  c: '76'
-  g: '466'
-  p: 16.3%
-spp_half:
-  c: '210'
-  g: '466'
-  p: 45.1%
-spp_started:
-  c: '360'
-  g: '466'
-  p: 77.3%
+indivs: {c: '4,086', g: '9,320', p: 43.8%}
+last_update: 15 April 2021
+spp_comp: {c: '79', g: '466', p: 17.0%}
+spp_half: {c: '210', g: '466', p: 45.1%}
+spp_started: {c: '361', g: '466', p: 77.5%}
